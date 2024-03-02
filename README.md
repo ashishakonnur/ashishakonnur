@@ -20,7 +20,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Data Analyst Projects](#Data-Analyst-projects)
-	+ [Tableau - London Bike Share](#Test)
+	+ [Tableau - London Bike Share](#Tableau-London-Bike-Share)
 
 - [Data Engineering Projects](#Data-Engineering-projects)
 
@@ -32,4 +32,7 @@ In this section, I will showcase my data analytics projects, providing succinct 
 **Description:** The project aims to uncover insights from the London Bike Sharing Dataset, available on Kaggle. This fascinating dataset contains a wealth of information about bike-sharing patterns in London, offering valuable insights into how weather conditions affect bike ride usage. To achieve this goal, we will use Python to directly connect to the Kaggle dataset, extract relevant metadata, and convert it into user-friendly descriptions. Furthermore, we will leverage Tableau to create an interactive dashboard that provides a comprehensive overview of the relationship between bike rides and weather changes. The project's focus on heatmaps and moving average graphs will allow for a deeper understanding of the dataset.
 **Skills:** data cleaning, data analysis, descriptive statistics, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+
+### Python - Natural Language Processing with Disaster Tweets
+**Code:** [`NLP with Twitter Data`](https://github.com/ashishakonnur/NLPPython/tree/main)
+
