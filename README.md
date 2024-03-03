@@ -21,10 +21,13 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Data Analyst Projects](#Data-Analyst-projects)
 	+ [Tableau - London Bike Share](#Tableau-London-Bike-Share)
+ 	+ [Python - Natural Language Processing with Disaster Tweets](#Python-Natural-Language-Processing-with-Disaster-Tweets)
 
 - [Data Engineering Projects](#Data-Engineering-projects)
+- [Academic Projects](#Academic-projects)
+        + [Python - Stroke Prediction](#Python-Stroke-Prediction)
 
-## Portfolio Projects
+## Data Analyst Projects
 In this section, I will showcase my data analytics projects, providing succinct descriptions of the technology stack employed to address various cases.
 
 ### Tableau - London Bike Share
@@ -34,5 +37,26 @@ In this section, I will showcase my data analytics projects, providing succinct 
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
 
 ### Python - Natural Language Processing with Disaster Tweets
-**Code:** [`NLP with Twitter Data`](https://github.com/ashishakonnur/NLPPython/tree/main)
+**Dashboard:** [`NLP with Disaster Tweets.ipynb`](https://github.com/ashishakonnur/NLPPython/blob/main/Natural%20Language%20Processing%20with%20Disaster%20Tweets.ipynb) <br>
+**Description:** Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. 
+In this dataset, i was challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. I had access to a dataset of 10,000 tweets that were hand classified.
+**Skills:** NLP libraries, Text Preprocessing, Word Embeddings, Sentiment Analysis, Machine Learning, Exploratory Data Analysis
+**Technology:** Python, Pandas, Seaborn, CountVectorizer, GloVe (ML), Baseline Model with GloVe (ML)
 
+
+## Data Engineering Projects
+###COMING SOON
+
+## Academic Projects
+
+### Python - Stroke Prediction
+**Dashboard:** [`Stroke Prediction.ipynb`](https://github.com/ashishakonnur/NLPPython/blob/main/Natural%20Language%20Processing%20with%20Disaster%20Tweets.ipynb) <br>
+**Description:**Our dataset contains a total of  medical records. Out of this, only  records belong to patients with stroke condition, and the remaining  records have no stroke condition. This is a highly unbalanced dataset.<br>
+**Highlights:** <br>
+	• We propose a predictive analytics approach for stroke prediction.<br>
+	• We use machine learning and neural networks in the proposed approach.<br>
+	• We identify the most important factors for stroke prediction.<br>
+	• Age, heart disease, average glucose level are important factors for predicting stroke.<br>
+	• We report our results on a balanced dataset created via sub-sampling techniques.<br>
+**Skills:** Exploratory Data Analysis, Data Cleaning, Descriptive Analytics, Handling Imbalanced Data, Normalization <br>
+**Technology:** Python, Pandas, Seaborn, Decision Tree, Random Forest, Correlation Coefficient, K Means Clustering (KNN), Gaussian Naive Bayes (GNB)
