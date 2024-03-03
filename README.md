@@ -22,6 +22,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Data Analyst Projects](#Data-Analyst-projects)
 	+ [Tableau - London Bike Share](#Tableau-London-Bike-Share)
  	+ [Python - Natural Language Processing with Disaster Tweets](#Python-Natural-Language-Processing-with-Disaster-Tweets)
+  	+ [Advanced Visaulization - Netflix Exploratory Analysis](#Netlix-Netflix-Exploratory-Analysis)	
 
 - [Data Engineering Projects](#Data-Engineering-projects)
 	+ [Coming Soon]
@@ -45,6 +46,11 @@ In this dataset, i was challenged to build a machine learning model that predict
 **Skills:** NLP libraries, Text Preprocessing, Word Embeddings, Sentiment Analysis, Machine Learning, Exploratory Data Analysis<br>
 **Technology:** Python, Pandas, Seaborn, CountVectorizer, GloVe (ML), Baseline Model with GloVe (ML)
 
+### Python - Nextflix Exploratory Analysis
+**Dashboard:** [`Netflix EDA.ipynb`](https://github.com/ashishakonnur/Netflix-EDA/blob/main/Nextflix_Visualization.ipynb) <br>
+**Description:** Netflix is an application that keeps growing bigger and faster with its popularity, shows and content. This is an EDA or a story telling through its data along with a content-based recommendation system and a wide range of different graphs and visuals. <br>
+**Skills:** Data Cleaning, Statistical Analysis, Data Visualization, Data Manipulation <br>
+**Technology:** Python, Matplotlib, Seaborn, Pandas
 
 ## Data Engineering Projects
 ###COMING SOON
