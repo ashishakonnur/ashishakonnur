@@ -60,7 +60,7 @@ In this dataset, i was challenged to build a machine learning model that predict
 
 ### Python - Stroke Prediction 🧑‍⚕️
 **Dashboard:** [`Stroke Prediction.ipynb`](https://github.com/ashishakonnur/NLPPython/blob/main/Natural%20Language%20Processing%20with%20Disaster%20Tweets.ipynb) <br>
-**Description:**Our dataset contains a total of  medical records. Out of this, only  records belong to patients with stroke condition, and the remaining  records have no stroke condition. This is a highly unbalanced dataset.<br>
+**Description:** Our dataset contains a total of  medical records. Out of this, only  records belong to patients with stroke condition, and the remaining  records have no stroke condition. This is a highly unbalanced dataset.<br>
 **Highlights:** <br>
 	• We propose a predictive analytics approach for stroke prediction.<br>
 	• We use machine learning and neural networks in the proposed approach.<br>
