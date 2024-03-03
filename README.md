@@ -34,15 +34,15 @@ In this section, I will showcase my data analytics projects, providing succinct 
 
 ### Tableau - London Bike Share
 **Dashboard:** [`London Bike Share`](https://github.com/ashishakonnur/Tableau-Dashboard)    
-**Description:** The project aims to uncover insights from the London Bike Sharing Dataset, available on Kaggle. This fascinating dataset contains a wealth of information about bike-sharing patterns in London, offering valuable insights into how weather conditions affect bike ride usage. To achieve this goal, we will use Python to directly connect to the Kaggle dataset, extract relevant metadata, and convert it into user-friendly descriptions. Furthermore, we will leverage Tableau to create an interactive dashboard that provides a comprehensive overview of the relationship between bike rides and weather changes. The project's focus on heatmaps and moving average graphs will allow for a deeper understanding of the dataset.
-**Skills:** data cleaning, data analysis, descriptive statistics, data visualization.  
+**Description:** The project aims to uncover insights from the London Bike Sharing Dataset, available on Kaggle. This fascinating dataset contains a wealth of information about bike-sharing patterns in London, offering valuable insights into how weather conditions affect bike ride usage. To achieve this goal, we will use Python to directly connect to the Kaggle dataset, extract relevant metadata, and convert it into user-friendly descriptions. Furthermore, we will leverage Tableau to create an interactive dashboard that provides a comprehensive overview of the relationship between bike rides and weather changes. The project's focus on heatmaps and moving average graphs will allow for a deeper understanding of the dataset.<br>
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualization.<br>
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
 
 ### Python - Natural Language Processing with Disaster Tweets
 **Dashboard:** [`NLP with Disaster Tweets.ipynb`](https://github.com/ashishakonnur/NLPPython/blob/main/Natural%20Language%20Processing%20with%20Disaster%20Tweets.ipynb) <br>
 **Description:** Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. 
 In this dataset, i was challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. I had access to a dataset of 10,000 tweets that were hand classified.
-**Skills:** NLP libraries, Text Preprocessing, Word Embeddings, Sentiment Analysis, Machine Learning, Exploratory Data Analysis
+**Skills:** NLP libraries, Text Preprocessing, Word Embeddings, Sentiment Analysis, Machine Learning, Exploratory Data Analysis<br>
 **Technology:** Python, Pandas, Seaborn, CountVectorizer, GloVe (ML), Baseline Model with GloVe (ML)
 
 
