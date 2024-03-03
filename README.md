@@ -18,7 +18,7 @@ This repository serves to showcase my skills and as a platform to share my proje
   
 
 ## Table of contents
-- [About](#about)
+- [About](#About)
 - [Data Analyst Projects](#Data-Analyst-projects)
 	+ [Tableau - London Bike Share](#Tableau-London-Bike-Share)
  	+ [Python - Natural Language Processing with Disaster Tweets](#Python-Natural-Language-Processing-with-Disaster-Tweets)
