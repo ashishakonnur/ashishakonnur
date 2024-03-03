@@ -26,6 +26,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Data Engineering Projects](#Data-Engineering-projects)
 - [Academic Projects](#Academic-projects)
         + [Python - Stroke Prediction](#Python-Stroke-Prediction)
+- [Contacts](#Contacts)
 
 ## Data Analyst Projects
 In this section, I will showcase my data analytics projects, providing succinct descriptions of the technology stack employed to address various cases.
@@ -60,3 +61,6 @@ In this dataset, i was challenged to build a machine learning model that predict
 	• We report our results on a balanced dataset created via sub-sampling techniques.<br>
 **Skills:** Exploratory Data Analysis, Data Cleaning, Descriptive Analytics, Handling Imbalanced Data, Normalization <br>
 **Technology:** Python, Pandas, Seaborn, Decision Tree, Random Forest, Correlation Coefficient, K Means Clustering (KNN), Gaussian Naive Bayes (GNB)
+
+## Contacts
+- LinkedIn: [@ashishakonnur](https://www.linkedin.com/in/ashishakonnur)
