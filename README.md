@@ -24,8 +24,9 @@ This repository serves to showcase my skills and as a platform to share my proje
  	+ [Python - Natural Language Processing with Disaster Tweets](#Python-Natural-Language-Processing-with-Disaster-Tweets)
 
 - [Data Engineering Projects](#Data-Engineering-projects)
+	+ [Coming Soon]
 - [Academic Projects](#Academic-projects)
-        + [Python - Stroke Prediction](#Python-Stroke-Prediction)
+	+ [Python - Stroke Prediction](#Python-Stroke-Prediction)
 - [Contacts](#Contacts)
 
 ## Data Analyst Projects
